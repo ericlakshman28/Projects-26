@@ -1,5 +1,5 @@
 [README-profile (1).md](https://github.com/user-attachments/files/29102914/README-profile.1.md)
-<h1 align="center">Hi 👋, I'm Lakshman</h1>
+<h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">Data Enthusiast | Machine Learning & Statistical Analysis</h3>
 
 <p align="center">
